@@ -1,13 +1,3 @@
-# Models
+# Model artifacts
 
-Ce dossier ne contient volontairement aucun poids de modèle.
-
-Les gros fichiers de modèles et checkpoints ne doivent pas être poussés directement sur GitHub.
-
-Vous pouvez utiliser ce dossier localement pour :
-- un modèle fusionné ;
-- un adaptateur LoRA ;
-- un modèle GGUF ;
-- des checkpoints.
-
-Le `.gitignore` exclut les formats lourds courants.
+No trained weights are included. A compatible model and external llama.cpp server are needed for actual inference. Training configuration notebooks do not generate weights. Keep checkpoints, merged models and credentials outside Git; the repository ignore rules exclude common generated weight formats.

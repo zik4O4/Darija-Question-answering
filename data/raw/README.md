@@ -1,7 +1,3 @@
-# Raw data
+# Original data
 
-Placez ici le corpus original obtenu depuis sa source officielle.
-
-Le corpus MedQA-MA original n'est pas redistribué dans ce dépôt.
-
-Les fichiers de démonstration du dépôt sont synthétiques et se trouvent dans `data/samples/`.
+The original MedQA-MA corpus is not redistributed here. Obtain it from its official source and review its terms before using it. Included samples under `data/samples/` are synthetic demonstrations.

@@ -1,6 +1,7 @@
-# Figures
+# Project figures
 
-- `experimental_pipeline.png` : pipeline expérimental généré pour le dépôt.
-- `final_composite_scores.png` : comparaison des scores composites finaux.
+- `demo.png`: existing demonstration interface asset.
+- `experimental_pipeline.png`: illustration of the documented research pipeline.
+- `final_composite_scores.png`: visualization of the reported result table.
 
-Vous pouvez remplacer ou compléter ces figures par vos propres graphiques et captures d'écran.
+These assets do not establish that the current snapshot reproduces the original training or evaluation runs.
